@@ -16,7 +16,7 @@ const About = () => {
       </h1>
       <div className="h-max pb-6 border bg-gray-400 w-[70vw] md:w-[30vw] lg:w-[25vw] md:mt-28">
         <img
-          src="/assets/Untitled Project1.png"
+          src="Untitled Project1.png"
           alt=""
           className="w-[150px] relative left-0 right-0 z-20 rounded-full -top-20 mx-auto bg-gray-100"
         />

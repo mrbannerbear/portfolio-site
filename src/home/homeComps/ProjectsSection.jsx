@@ -6,13 +6,13 @@ const ProjectsSection = () => {
     <div className="h-max py-20 px-6 md:min-h-screen lg:py-32 bg-gray-100 text-gray-700" id="projects">
       <div className="hero-content flex-col lg:flex-row-reverse">
             <div className="hidden lg:flex relative">
-                <img src="/assets/libmanage.png" alt=""  className="absolute 
+                <img src="libmanage.png" alt=""  className="absolute 
                 w-96 rounded-lg -right-24 bottom-28 shadow-xl
                 origin-right 
                 "/>
-                <img src="/assets/lenormand.png" alt="" className=" w-96 -right-8
+                <img src="lenormand.png" alt="" className=" w-96 -right-8
                 rounded-lg relative -bottom-32 z-20 shadow-xl"/>
-                <img src="/assets/purrfect.png" alt="" className="absolute 
+                <img src="purrfect.png" alt="" className="absolute 
                 w-96 rounded-lg -right-16 bottom-4 shadow-xl"/>
             </div>
         <div className="max-w-lg">

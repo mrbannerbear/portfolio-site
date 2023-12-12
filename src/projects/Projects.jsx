@@ -6,7 +6,7 @@ const Projects = () => {
   const projects = [
     {
       name: "Restaurant Le Normand",
-      image: "/assets/lenormand.png",
+      image: "lenormand.png",
       description: "This is a fine dining restaurant website inspired by that of Alain Ducasse at the Dorchester.",
       live: "https://restaurant-le-normand.surge.sh/",
       clientLink: "https://github.com/mrbannerbear/le-normand-restaurant-client/",
@@ -27,7 +27,7 @@ const Projects = () => {
     },
     {
       name: "Purrfect Adoption Hub",
-      image: "/assets/purrfect.png",
+      image: "purrfect.png",
       description: "Purrfect Adoption Hub is a pet adoption site that allows users to adopt pets as well as donate.",
       live: "https://purrfect-adoption-hub1.surge.sh/",
       clientLink: "https://github.com/mrbannerbear/purrfect-adoption-hub-client",
@@ -50,7 +50,7 @@ const Projects = () => {
     },
     {
       name: "FirstPage Library",
-      image: "/assets/libmanage.png",
+      image: "libmanage.png",
       description: "Firstpage Library is an online library that allows users to borrow books as well add & edit their own books.",
       live: "https://lib-management-surge1.surge.sh/",
       clientLink: "https://github.com/mrbannerbear/library-management-client",

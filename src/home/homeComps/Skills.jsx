@@ -3,32 +3,32 @@ const Skills = () => {
   const skills = [
     {
       name: "JavaScript",
-      image: "/assets/javascript.svg",
+      image: "javascript.svg",
       level: "65",
     },
     {
       name: "React.js",
-      image: "/assets/reactjs.svg",
+      image: "reactjs.svg",
       level: "65",
     },
     {
       name: "Tailwind CSS",
-      image: "/assets/tailwind.svg",
+      image: "tailwind.svg",
       level: "80",
     },
     {
       name: "Firebase",
-      image: "/assets/firebase.svg",
+      image: "firebase.svg",
       level: "75",
     },
     {
       name: "Express.js",
-      image: "/assets/expressjs.svg",
+      image: "expressjs.svg",
       level: "70",
     },
     {
       name: "MongoDB",
-      image: "/assets/mongodb.svg",
+      image: "mongodb.svg",
       level: "50",
     },
   ];
