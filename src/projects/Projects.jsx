@@ -1,5 +1,5 @@
 import { FaArrowLeft } from "react-icons/fa";
-import { NavLink } from "react-router-dom";
+import { NavLink, ScrollRestoration } from "react-router-dom";
 import Footer from "../Footer/Footer";
 
 const Projects = () => {
@@ -150,6 +150,7 @@ const Projects = () => {
       </div>
     </div>
     <Footer></Footer>
+    <ScrollRestoration></ScrollRestoration>
     </>
   );
 };
