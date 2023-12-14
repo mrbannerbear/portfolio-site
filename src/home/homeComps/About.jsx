@@ -24,11 +24,11 @@ const About = () => {
           <h1 className="text-gray-100 text-2xl font-medium">Sayed Saqlain</h1>
           <p className="text-gray-100">Front-end web developer</p>
         </div>
-        <div className="flex justify-center items-start text-lg gap-5 h-full mt-8 relative">
-          <a href="https://github.com/mrbannerbear">
+        <div className="flex justify-center items-start text-lg gap-5 h-full mt-8 relative z-50">
+          <a href="https://github.com/mrbannerbear" target="_blank">
             <FaGithub className="text-4xl"></FaGithub>
           </a>
-          <a href="https://www.linkedin.com/in/sayed-saqlayn/">
+          <a href="https://www.linkedin.com/in/sayed-saqlayn/" target="_blank">
             <FaLinkedin className="text-4xl"></FaLinkedin>
           </a>
         </div>
