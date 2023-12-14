@@ -25,10 +25,10 @@ const About = () => {
           <p className="text-gray-100">Front-end web developer</p>
         </div>
         <div className="flex justify-center items-start text-lg gap-5 h-full mt-8 relative z-50">
-          <a href="https://github.com/mrbannerbear" target="_blank">
+          <a href="https://github.com/mrbannerbear" target="_blank" rel="noreferrer">
             <FaGithub className="text-4xl"></FaGithub>
           </a>
-          <a href="https://www.linkedin.com/in/sayed-saqlayn/" target="_blank">
+          <a href="https://www.linkedin.com/in/sayed-saqlayn/" target="_blank" rel="noreferrer">
             <FaLinkedin className="text-4xl"></FaLinkedin>
           </a>
         </div>
@@ -55,7 +55,7 @@ const About = () => {
           And so here I am, showcasing some of projects on this site I made with
           care & passion.
           <br /><br />
-          Some other stuff about me- I am currently studying Bsc. in Statistics, 1st Semester. I like soccer, hot chocolate, history documentaries & video games.
+           I like soccer, hot chocolate, history documentaries & video games.
         </p>
       </div>
     </div>
