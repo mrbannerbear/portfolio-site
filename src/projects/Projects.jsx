@@ -8,7 +8,7 @@ const Projects = () => {
       name: "Restaurant Le Normand",
       image: "lenormand.png",
       description: "This is a fine dining restaurant website inspired by that of Alain Ducasse at the Dorchester.",
-      live: "https://restaurant-le-normand.surge.sh/",
+      live: "https://le-normand-restaurant.vercel.app/",
       clientLink: "https://github.com/mrbannerbear/le-normand-restaurant-client/",
       serverLink: "https://github.com/mrbannerbear/le-normand-restaurant-server/",
       frontend: [
