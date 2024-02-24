@@ -32,7 +32,7 @@ const Resume = () => {
 
       <Worker workerUrl="https://unpkg.com/pdfjs-dist@3.4.120/build/pdf.worker.min.js">
         <div className="py-12 px-6">
-          <Viewer fileUrl="Black and White Minimalist Simple Design Freelancer Resume.pdf" />
+          <Viewer fileUrl="saqlain-react-developer.pdf" />
         </div>
       </Worker>
     </div>
