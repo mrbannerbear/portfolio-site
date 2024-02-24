@@ -17,12 +17,12 @@ const Resume = () => {
                 </NavLink>
             </button>
         </div>
-      <h1 className="text-center text-3xl font-semibold">Sample Resume</h1>
+      <h1 className="text-center text-3xl font-semibold">Resume</h1>
 
       <div className="w-64 mx-auto flex justify-center">
         <button className="btn1 mx-auto mt-4">
           <a
-            href="Black and White Minimalist Simple Design Freelancer Resume.pdf"
+            href="saqlain-react-developer.pdf.pdf"
             download={true}
           >
             Download
