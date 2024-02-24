@@ -29,7 +29,7 @@ const Projects = () => {
       name: "Purrfect Adoption Hub",
       image: "purrfect.png",
       description: "Purrfect Adoption Hub is a pet adoption site that allows users to adopt pets as well as donate.",
-      live: "https://purrfect-adoption-hub1.surge.sh/",
+      live: "https://purrfect-client.vercel.app/",
       clientLink: "https://github.com/mrbannerbear/purrfect-adoption-hub-client",
       serverLink: "https://github.com/mrbannerbear/purrfect-adoption-hub-server",
       frontend: [
