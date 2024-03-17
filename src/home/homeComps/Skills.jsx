@@ -17,6 +17,11 @@ const Skills = () => {
       
     },
     {
+      name: "TypeScript",
+      image: "typescript.svg",
+      
+    },
+    {
       name: "Tailwind CSS",
       image: "tailwind.svg",
       
