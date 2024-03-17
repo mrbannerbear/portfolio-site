@@ -4,32 +4,37 @@ const Skills = () => {
     {
       name: "JavaScript",
       image: "javascript.svg",
-      level: "65",
+      
     },
     {
       name: "React.js",
       image: "reactjs.svg",
-      level: "65",
+      
+    },
+    {
+      name: "Next JS",
+      image: "next-js.svg",
+      
     },
     {
       name: "Tailwind CSS",
       image: "tailwind.svg",
-      level: "80",
+      
     },
     {
       name: "Firebase",
       image: "firebase.svg",
-      level: "75",
+      
     },
     {
       name: "Express.js",
       image: "expressjs.svg",
-      level: "70",
+      
     },
     {
       name: "MongoDB",
       image: "mongodb.svg",
-      level: "50",
+      
     },
   ];
 
@@ -53,11 +58,6 @@ const Skills = () => {
                 {each.name}
               </span>{" "}
               <br />
-              <progress
-                className="progress progress-secondary w-20"
-                value={each.level}
-                max="100"
-              ></progress>
             </p>
           </p>
         ))}
