@@ -22,7 +22,7 @@ const Resume = () => {
       <div className="w-64 mx-auto flex justify-center">
         <button className="btn1 mx-auto mt-4">
           <a
-            href="saqlain-react-developer.pdf.pdf"
+            href="sayed_saqlain_resume.pdf"
             download={true}
           >
             Download
@@ -32,7 +32,7 @@ const Resume = () => {
 
       <Worker workerUrl="https://unpkg.com/pdfjs-dist@3.4.120/build/pdf.worker.min.js">
         <div className="py-12 px-6">
-          <Viewer fileUrl="saqlain-react-developer.pdf" />
+          <Viewer fileUrl="sayed_saqlain_resume.pdf" />
         </div>
       </Worker>
     </div>
